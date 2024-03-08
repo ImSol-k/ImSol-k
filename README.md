@@ -2,6 +2,7 @@
 <p>개발자 지망생 김소리 입니다</p>
 <hr width = "90%">
 <div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImSol-k&show_icons=true&theme=transparent)
 
 <br>
