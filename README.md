@@ -1,8 +1,5 @@
 <div align="center">
-<h1>
-  안녕하세요 👋 
-  <p>개발자 지망생 김소리 입니다</p>
-</h1>
+<h1>👋개발뉴비 김소리 입니다</h1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImSol-k&show_icons=true&theme=transparent)
