@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋Hello</h2>
+<h1>👋Hello</h1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImSol-k&show_icons=true&theme=transparent)
