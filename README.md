@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👋개발뉴비 김소리 입니다</h1>
+<h2>👋개발뉴비 김소리 입니다</h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImSol-k&show_icons=true&theme=transparent)
